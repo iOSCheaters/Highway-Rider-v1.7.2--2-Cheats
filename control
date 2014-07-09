@@ -1,0 +1,9 @@
+Package: com.zahirsher.highway
+Name: HighwayRider Cheats
+Depends: mobilesubstrate
+Version: 1.7.2
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Zahir
+Author: Zahir
+Section: Tweaks
